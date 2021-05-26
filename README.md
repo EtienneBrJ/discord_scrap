@@ -22,8 +22,8 @@ $nameofthecrypto(based on the url-name)
 
 ### Exemple :
 
-##### Utilisateur: $cardano
+Utilisateur: $cardano  
 Bot: 1.70$
 
-##### Utilisateur: $bitcoin
+Utilisateur: $bitcoin  
 Bot: 38.000$
