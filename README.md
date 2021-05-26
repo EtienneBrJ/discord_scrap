@@ -1,26 +1,26 @@
-Discord Scrapper (Replit)
+# Discord Scrapper (Replit)
 
 Scrapping crypto-price listed on CoinMarketCap
 
 Using Replit to handle the environment
 
-#Pré-requis: Using python3
+### Pré-requis: Using python3
 
-Flask
+#### Flask
 $ pip install -U Flask
 
-BeautifulSoup
+#### BeautifulSoup
 $ pip install beautifulsoup4
 
-Discord
+#### Discord
 python3 -m pip install -U discord.py
 
 
-#Utilisation:
+### Utilisation:
 
 $nameofthecrypto(based on the url-name)
 
-#Exemple :
+### Exemple :
 
 $cardano
 Bot: 1.70$
