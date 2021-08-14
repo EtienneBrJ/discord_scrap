@@ -30,10 +30,10 @@ print()
 
 trou = total_tpe - total_caisses
 if trou > 0:
-    print("Tu as un trou de " + str(trou) + " € ... sacrée trou")
+    print("Tu as un trou de " + str(trou) + " € ")
     print()
     print("Tu dois donc taper " + str(trou) + " € sur la caisse")
 elif trou == 0:
     print("C'est carré")
 else:
-    print("Trop taper sur la caisse")
+    print("Trop tapé sur la caisse")
